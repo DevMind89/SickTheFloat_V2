@@ -27,7 +27,7 @@ import javafx.util.Duration;
 
 public class SinkTheFloat extends Application {
 
-	private static final int SHIP = 0;
+	private static final int SHIP = 1;
 
 	private int rows;
 	private int columns;
